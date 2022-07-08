@@ -14,8 +14,8 @@ export class HeaderComponent implements OnInit {
 
   readonly VERSION: string = 'Version 1.0.0'
 
-  readonly PROGRAMMERS_LOGO_PATH: string = "../assets/images/logo/programmers-colorido.png";
-  readonly OPEN_DELIVERY_LOGO_PATH: string = "../assets/images/logo/open-delivery.webp";
+  readonly PROGRAMMERS_LOGO_PATH: string = "assets/images/logo/programmers-colorido.png";
+  readonly OPEN_DELIVERY_LOGO_PATH: string = "assets/images/logo/open-delivery.webp";
 
   readonly OPEN_DELIVERY_DOC_URL: string = "https://abrasel-nacional.github.io/docs/";
 

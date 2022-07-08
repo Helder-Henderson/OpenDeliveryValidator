@@ -12,5 +12,5 @@ export class FooterComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  readonly PROGRAMMERS_LOGO_PATH: string = "../../../../assets/images/logo/programmers-branco.webp";
+  readonly PROGRAMMERS_LOGO_PATH: string = "assets/images/logo/programmers-branco.webp";
 }
